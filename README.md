@@ -4,6 +4,12 @@ A fully serverless Wordle clone built on AWS.
 
 > **Note**: This project is currently **archived**. The AWS resources have been decommissioned as the service period expired. This repository is for code reference.
 
+## 🏗️ System Architecture
+<img width="770" height="481" alt="Image" src="https://github.com/user-attachments/assets/71bf4a55-0523-4a4e-bead-3e6d882dae48" />
+
+## 🕹️ Workflow & Game Logic
+<img width="649" height="517" alt="Image" src="https://github.com/user-attachments/assets/bff42fd7-79c2-40c9-94ff-7d28f4d2b079" />
+
 ## 🚀 Architecture
 - **Hosting**: S3 Static Website Hosting
 - **Auth**: AWS Cognito (Identity & Access)
