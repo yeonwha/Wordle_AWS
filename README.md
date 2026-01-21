@@ -34,5 +34,5 @@ A fully serverless Wordle clone built on AWS.
 5. **Comparison**: Lambda iterates through each character:
     * 🟩 **Correct**: Right letter, right spot.
     * 🟨 **Present**: Right letter, wrong spot.
-    * ⬛ **Absent**: Letter not in the word.
+    * 🟥 **Absent**: Letter not in the word.
 6. **State Management**: Results and scores are stored in **DynamoDB**.
